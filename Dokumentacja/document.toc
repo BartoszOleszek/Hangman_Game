@@ -1,0 +1,32 @@
+\babel@toc {polish}{}\relax 
+\contentsline {section}{1. Wstęp}{2}{section*.2}%
+\contentsline {subsection}{1.1 Cel projektu}{2}{section*.3}%
+\contentsline {subsection}{1.1 Cel gry}{2}{section*.4}%
+\contentsline {subsection}{1.2 Zasady gry}{2}{section*.5}%
+\contentsline {section}{2. Elementy Interfejsu graficznego}{3}{section*.6}%
+\contentsline {subsection}{2.1 Okno główne}{3}{section*.7}%
+\contentsline {subsection}{2.2 Pole zgadywanego słowa}{3}{section*.8}%
+\contentsline {subsection}{2.3 Kategoria}{3}{section*.9}%
+\contentsline {subsection}{2.4 Lliczba punktów}{3}{section*.10}%
+\contentsline {subsection}{2.5 Obszar rysowania postaci wisielca}{3}{section*.11}%
+\contentsline {subsection}{2.6 Przycisk podpowiedzi}{3}{section*.12}%
+\contentsline {subsection}{2.7 Pole do wpisywania podpowiedzi}{3}{section*.13}%
+\contentsline {subsection}{2.8 Lista użytych liter}{3}{section*.14}%
+\contentsline {subsection}{2.9 Wyświetlanie pucharu i liczby zwycięstw}{3}{section*.15}%
+\contentsline {subsection}{2.10 Przycisk $"$nowe słowo$"$}{4}{section*.16}%
+\contentsline {section}{3. Rozgrywka}{5}{section*.18}%
+\contentsline {subsection}{3.1 Rozpoczęcie gry}{5}{section*.19}%
+\contentsline {subsection}{3.2 Zgadywanie liter}{5}{section*.21}%
+\contentsline {subsubsection}{3.2.1 Poprawna odpowiedź}{6}{section*.23}%
+\contentsline {subsubsection}{3.2.2 Niepoprawna odpowiedź}{6}{section*.24}%
+\contentsline {subsection}{3.3 Wyświetlenie podpowiedzi}{7}{section*.26}%
+\contentsline {subsection}{3.4 Zgadywanie liter}{7}{section*.28}%
+\contentsline {subsubsection}{3.4.1 Zwycięstwo}{7}{section*.29}%
+\contentsline {subsubsection}{3.4.2 Porażka}{8}{section*.34}%
+\contentsline {subsection}{3.5 Porażka}{9}{section*.37}%
+\contentsline {section}{3. Struktura kodu}{10}{section*.39}%
+\contentsline {subsection}{3.1 Plik wisielecMain.h}{10}{section*.40}%
+\contentsline {subsection}{3.2. Plik wisielecMain.cpp}{12}{section*.41}%
+\contentsline {section}{4. Podział pracy}{21}{section*.42}%
+\contentsline {section}{5. Instrukcja instalacji}{22}{section*.43}%
+\contentsline {section}{6. Podsumowanie}{23}{section*.44}%
