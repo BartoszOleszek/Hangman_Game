@@ -1,5 +1,7 @@
 # Wisielec – Gra w C++
 
+[Raport](https://bartoszoleszek.github.io/Hangman_Game/document.pdf)
+
 ## Cel projektu  
 Gra **"Wisielec"** to interaktywna aplikacja napisana w **języku C++** z wykorzystaniem biblioteki **wxWidgets**.  
 Celem projektu jest dostarczenie użytkownikowi rozrywki, a jednocześnie rozwijanie umiejętności logicznego myślenia oraz poszerzanie słownictwa.  
